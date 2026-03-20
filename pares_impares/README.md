@@ -23,6 +23,4 @@ for i in range(1, 21):
 ![diagrama de flujo](diagrama.png)
 
 ## frase
-![alt text](image-3.png)
-
-## hacer el diagrama de flujo y el programa en python que aberigue y imprima cuantos multiplos de 7, y cuantos multiplos de 9 hay en los numeros comprendidos entre 1000 y 5000
+![alt text](image.png)
